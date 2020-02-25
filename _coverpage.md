@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](_media/photos.svg)
 
 # master-photo <small>0.1.0</small>
 
