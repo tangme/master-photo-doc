@@ -8,7 +8,7 @@
 <!-- 引入样式 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/master-photo/dist/masterphoto.css">
 <!-- 引入组件库 -->
-<script src="https://cdn.jsdelivr.net/npm/master-photo/dist/masterphoto.common.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/master-photo/dist/masterphoto.umd.min.js"></script>
 ```	
 
 对于生产环境，我们推荐链接到一个明确的版本号和构建文件，以避免新版本造成的不可预期的破坏：
@@ -16,7 +16,7 @@
 <!-- 引入样式 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/master-photo@0.1.0/dist/masterphoto.css">
 <!-- 引入组件库 -->
-<script src="https://cdn.jsdelivr.net/npm/master-photo@0.1.0/dist/masterphoto.common.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/master-photo@0.1.0/dist/masterphoto.umd.min.js"></script>
 ```	
 
 
