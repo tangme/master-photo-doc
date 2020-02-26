@@ -4,7 +4,7 @@
 
 > A photo editor for Web.
 
-- Simple and lightweight (~21kB gzipped)
+- Simple and lightweight (~310kB gzipped)
 - No statically built html files
 - Multiple themes
 
