@@ -1,6 +1,6 @@
 ![logo](_media/photos.svg)
 
-# master-photo <small>0.1.0</small>
+# master-photo <small>0.1.1</small>
 
 > A photo editor for Web.
 
