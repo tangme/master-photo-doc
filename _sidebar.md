@@ -16,4 +16,7 @@
    * [m-mosaic-tool](component/mmosaic.md)
    * [m-text-tool](component/mtext.md)
    * [m-undo-tool](component/mundo.md)
+   * [m-redo-tool](component/mredo.md)
+   * [m-clear-tool](component/mclear.md)
    * [m-file-tool](component/mfile.md)
+ * [m-filter](component/mfilter.md)
